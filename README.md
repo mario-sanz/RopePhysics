@@ -8,7 +8,7 @@ Stars in GitHub are appreciated!
 
 If you have any further questions or suggestions, don't hesitate to ask me here: [Questions and issues][questions]
 
-Developer: mario-sanz
+Developer: [mario-sanz][mariosanz]
 
 [questions]: https://github.com/mario-sanz/RopePhysics/issues
 [mariosanz]: https://github.com/mario-sanz
