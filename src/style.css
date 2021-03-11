@@ -1,0 +1,59 @@
+canvas { position: absolute }
+
+.slider-container {
+  width: 50%;
+  float: left;
+  margin: 80px 10px;
+}
+
+.slider {
+  -webkit-appearance: none;
+  width: 100%;
+  height: 10px;
+  border-radius: 5px;
+  background: #0000ff;
+  outline: none;
+}
+
+.slider:hover {
+  opacity: 1;
+}
+
+.slider::-webkit-slider-thumb {
+  -webkit-appearance: none;
+  appearance: none;
+  width: 20px;
+  height: 20px;
+  border-radius: 50%;
+  background: #0000ff;
+  cursor: pointer;
+}
+
+.slider::-moz-range-thumb {
+  width: 20px;
+  height: 20px;
+  border-radius: 50%;
+  background: #0000ff;
+  cursor: pointer;
+}
+
+
+.first { width: 50% }
+.first span { color: #000099 }
+.first .slider::-webkit-slider-thumb { background: #0000ff }
+.first .slider { background: #6666ff }
+
+.second { width: 30% }
+.second span { color: #000099 }
+.second .slider::-webkit-slider-thumb { background: #0000ff }
+.second .slider { background: #6666ff }
+
+.third { width: 60% }
+.third span { color: #000099 }
+.third .slider::-webkit-slider-thumb { background: #0000ff }
+.third .slider { background: #6666ff }
+
+.fourth { width: 20% }
+.fourth span { color: #000099 }
+.fourth .slider::-webkit-slider-thumb { background: #0000ff }
+.fourth .slider { background: #6666ff }
