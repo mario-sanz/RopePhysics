@@ -11,3 +11,4 @@ If you have any further questions or suggestions, don't hesitate to ask me here:
 Developer: mario-sanz
 
 [questions]: https://github.com/mario-sanz/RopePhysics/issues
+[mariosanz]: https://github.com/mario-sanz
